@@ -1,0 +1,1 @@
+[alt text](screenshots/result.gif "Результат выполнения")
