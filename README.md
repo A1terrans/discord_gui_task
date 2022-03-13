@@ -1,1 +1,1 @@
-[alt text](screenshots/result.gif "Результат выполнения")
+<img src="screenshots/result.gif" alt="Результат выполнения">
